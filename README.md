@@ -1,6 +1,5 @@
 🔗 Try the live simulation here: https://wokwi.com/projects/471330412580885505
 
-
 # RTOS-based Multi-Sensor Task Scheduler
 
 ## What this project is
